@@ -1,0 +1,16 @@
+Problem #1
+
+bq rel <ABC>
+
+
+
+Problem #2
+
+bq rel <XYZ> re f 
+bq rel <XYZ> re l
+
+Problem #3
+
+bq rel <XYZ> key <10> 
+bq rel <XYZ> re n
+bq rel <XYZ> re n
