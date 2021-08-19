@@ -1,0 +1,8 @@
+
+SELECT DISTINCT name FROM dogs 
+UNION
+SELECT DISTINCT name FROM cats
+
+
+GROUP BY name
+ORDER BY name
